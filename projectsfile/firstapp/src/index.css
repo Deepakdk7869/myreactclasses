@@ -1,0 +1,6 @@
+.centeritem{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    /* flex-wrap: wrap; */
+}

@@ -1,0 +1,9 @@
+.alignProduct{
+    display: flex;
+    flex-wrap: wrap;
+    gap : 20px;
+    text-align: center;
+}
+.content{
+    margin-top: 10px;
+}
